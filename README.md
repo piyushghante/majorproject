@@ -93,7 +93,7 @@
 ---
 
 ## 📧 Contact  
-For any queries or collaboration opportunities, feel free to reach out at [PIYUSH GHANTE](mailto:ghantepiyush2003@gmail.com) [JANHAVI GANGURDE](mailto:gangurdejanhavi@gmail.com) .
+For any queries or collaboration opportunities, feel free to reach out at [PIYUSH GHANTE](mailto:ghantepiyush2003@gmail.com) , [JANHAVI GANGURDE](mailto:gangurdejanhavi@gmail.com) .
 
 ---
 
