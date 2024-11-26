@@ -45,6 +45,25 @@
   <img src="encryption.png" alt="Decryption Architecture" width="80%">
 </p>
 
+<h2 align="center">📋 Prior Installations</h2>
+<p>
+  To get started with BitLocks, ensure you have the following installations ready:
+</p>
+<ul>
+  <li>Install <b>Node.js</b>: <a href="https://nodejs.org/">Download and Install</a></li>
+  <li>Install required Python libraries:
+    <ul>
+      <li><code>pip install web3</code></li>
+      <li><code>pip install py-solc-x</code></li>
+    </ul>
+  </li>
+  <li>Install OpenZeppelin library:
+    <ul>
+      <li><code>npm install @openzeppelin/contracts</code></li>
+    </ul>
+  </li>
+</ul>
+
 <h2 align="center">📂 Technology Stack</h2>
 <table align="center">
   <tr>
