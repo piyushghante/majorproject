@@ -93,7 +93,7 @@
 ---
 
 ## 📧 Contact  
-For any queries or collaboration opportunities, feel free to reach out at [piyush.ghante22@vit.edu](mailto:piyush.ghante22@vit.edu).
+For any queries or collaboration opportunities, feel free to reach out at [piyush.ghante22@vit.edu](mailto:ghantepiyush2003@gmail.com) [JANHAVI GANGURDE](mailto:gangurdejanhavi@gmail.com) .
 
 ---
 
